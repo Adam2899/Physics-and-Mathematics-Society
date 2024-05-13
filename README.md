@@ -5,3 +5,11 @@ Therefore, if you want to run the code you will need an interpreter and to have 
 
 Thanks,
 Adam
+
+## HOW TO RUN
+
+```sh
+python -m venv .
+./bin/pip install -r requirements.txt
+./bin/python chaos_theory/lorenz_attractor.py
+```
